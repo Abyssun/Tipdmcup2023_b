@@ -1,3 +1,6 @@
+![Tipdmcup2023_b](https://socialify.git.ci/Abyssun/Tipdmcup2023_b/image?custom_language=Python&description=1&font=Bitter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Auto)
+
+
 # Tipdmcup2023_b
 
 2023年“泰迪杯”数据分析技能赛B题企业财务数据分析与造假识别
